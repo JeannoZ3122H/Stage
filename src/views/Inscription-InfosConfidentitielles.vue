@@ -65,7 +65,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 body{
     background: url("../assets/Pôle/IMG-20221213-WA0004.jpg") no-repeat center center;
     background-size: 100%;

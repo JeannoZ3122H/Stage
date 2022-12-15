@@ -56,7 +56,7 @@
   </div>
 </template>
 
-<style scoped>
+<style>
 body{
     background: url("../assets/Pôle/IMG-20221213-WA0005.jpg") no-repeat center center;
     background-size: 100%;
@@ -76,13 +76,6 @@ body{
 .link-active label{
     color: var(--color) !important;
     font-weight: 800 !important
-}
-.niveau{
-    margin-bottom: -10px !important; 
-    margin-top: -30px 
-}
-.Photo{
-    margin-top: -20px 
 }
 .back-btn{
     width: 10px;

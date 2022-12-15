@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container bg-share">
     <Header />
     <main id="Accueil" class="container-fluid">
       <div class="container-fluid bloc-1">

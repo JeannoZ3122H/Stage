@@ -18,7 +18,7 @@
             <nav class="collapse navbar-collapse" id="Col1">
                 <div class="d-flex justify-content-center">
                     <ul class="navbar-nav">
-                        <router-link to="/Notre_concept" class="r-1"><li class="nav-item mx-2 nav-link h-link text-white fw-bold">Notre concept</li></router-link>
+                        <router-link to="/Concept" class="r-1"><li class="nav-item mx-2 nav-link h-link text-white fw-bold">Notre concept</li></router-link>
                         <router-link to="/Nos_Services" class="r-1"><li class="nav-item mx-2"><a href="" class="nav-link h-link text-white fw-bold">Nos services</a></li></router-link>
                         <router-link to="/Pourquoi" class="r-1"><li class="nav-item mx-2"><a href="" class="nav-link h-link text-white fw-bold">Pourquoi nous rejoindre</a></li></router-link>
                     </ul>
