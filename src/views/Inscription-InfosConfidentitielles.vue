@@ -67,7 +67,7 @@ export default {
 
 <style>
 body{
-    background: url("../assets/Pôle/IMG-20221213-WA0004.jpg") no-repeat center center;
+    background: url("../assets/Pôle/IMG-20221213-WA0005.jpg") no-repeat center center;
     background-size: 100%;
     width: 100%;
     height: 100vh;
