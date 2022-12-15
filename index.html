@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="icon" href="/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vite App</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+    <script type="module">
+      var get = document.querySelector(".container-PopUp");
+      var btn = document.querySelector(".btn-1");
+      btn.addEventListener('click', ()=>{
+          get.classList.toggle("d-none");
+          get.classList.toggle("container-PopUp-trs");
+      })
+    </script>
+  </body>
+</html>
